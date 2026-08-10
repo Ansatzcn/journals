@@ -1,5 +1,15 @@
 {
   "schemaVersion": 1,
-  "entries": [],
-  "subjects": []
+  "entries": [
+    {
+      "id": "0eba8196-4246-4db3-a46f-40c38544ada4",
+      "name": "马克思主义理论学科研究",
+      "issn": "10-1351/A",
+      "subject": "马克思主义理论",
+      "remark": "C刊"
+    }
+  ],
+  "subjects": [
+    "马克思主义理论"
+  ]
 }
