@@ -2,6 +2,13 @@
   "schemaVersion": 1,
   "entries": [
     {
+      "id": "ac488802-8413-4cb3-9229-c61d548cbcd3",
+      "name": "光明日报·理论版",
+      "issn": "11-0026",
+      "subject": "马克思主义理论",
+      "remark": "C刊"
+    },
+    {
       "id": "0eba8196-4246-4db3-a46f-40c38544ada4",
       "name": "马克思主义理论学科研究",
       "issn": "10-1351/A",
